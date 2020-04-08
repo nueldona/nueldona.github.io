@@ -1,0 +1,63 @@
+@media screen and (min-width: 300px) and (max-width: 597px) {
+  .home__icon {
+    font-size: 8px;
+  }
+
+  .brand__name {
+    font-size: 14px;
+  }
+
+  .header__content {
+    padding-top: 3rem;
+  }
+
+  .top__content {
+    padding: 0em 1em;
+  }
+  
+  .about__content .content {
+    flex-direction: column;
+  }
+
+  .bio__content {
+    padding: 4em 0em 4em 0em; 
+  }
+
+  .picx {
+    right: 0px !important;
+  }
+
+  .animate  {
+    max-width: 100%;
+  }
+
+  .fc__content {
+    flex-direction: column;
+  }
+
+  form {
+    margin: 0em 0em 2em 0em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .bio__content {
+    padding: 10em 0em; 
+  }
+
+  .picx {
+    right: -20px;
+  }
+}
+
+@media screen and (max-width: 909px) {
+  .bio__content {
+    padding: 10em 0em; 
+  }
+
+  .picx {
+    right: -30px;
+  }
+}
+
