@@ -295,6 +295,12 @@ label {
   background-repeat: no-repeat;
 }
 
+.img--3 {
+  background: linear-gradient(90deg,#101010, #06060666), url(/img/89160404_m.webp);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
 .backG__img:hover {
   filter: grayscale(0);
 }
