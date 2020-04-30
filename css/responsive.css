@@ -1,6 +1,15 @@
 @media screen and (min-width: 300px) and (max-width: 597px) {
-  .home__icon {
-    font-size: 8px;
+  .home__icon a {
+    font-size: medium;
+  }
+
+  .sm__heading {
+    font-size: medium;
+    padding: 0 12px;
+  }
+
+  .lg__heading {
+    font-size: 40px !important;
   }
 
   .brand__name {
@@ -36,7 +45,7 @@
   }
 
   form {
-    margin: 0em 0em 2em 0em;
+    margin: 0em 0em 3em 0em;
   }
 }
 
