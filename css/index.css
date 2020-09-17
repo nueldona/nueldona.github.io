@@ -282,7 +282,7 @@ label {
 }
 
 .backG__img {
-  background: linear-gradient(90deg,#000000, #06060666), url(/img/desktop-preview.jpg);
+  background: linear-gradient(90deg,#000000, #06060666), url('/img/thumbnail.svg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -300,6 +300,14 @@ label {
   background-position: center center;
   background-repeat: no-repeat;
 }
+
+.img--4 {
+  background: linear-gradient(90deg,#101010, #06060666), url('img/iShot.svg');
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+
 
 .backG__img:hover {
   filter: grayscale(0);
